@@ -2,7 +2,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=alineanascimento&color=blue)
 [![LinkedIn](https://www.linkedin.com/in/aline-acioly-9217a7306/)
 
 </div>
