@@ -1,4 +1,4 @@
-# Olá! Eu sou a Aline Nascimento 👩‍💻
+# Olá! Eu sou Aline Nascimento 👩‍💻
 
 <div align="center">
   
