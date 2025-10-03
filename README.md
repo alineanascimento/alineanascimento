@@ -1,10 +1,7 @@
-# Olá! Eu sou Aline Nascimento 👩‍💻
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+Aline+Nascimento+👩‍💻;Backend+Developer+em+Formação;Apaixonada+por+Python+🐍;Aprendendo+e+Evoluindo+Todos+os+Dias+🚀" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-acioly-9217a7306/)
-
-</div>
 
 ## 🚀 Jornada de Aprendizado
 
