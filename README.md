@@ -6,7 +6,7 @@
 
 ### 🚀 Backend Developer
 
-Desenvolvedora Python focada em construir APIs robustas e escaláveis
+Desenvolvedora Python focada em construir APIs robustas e escaláveis.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-acioly/)
 
@@ -16,11 +16,12 @@ Desenvolvedora Python focada em construir APIs robustas e escaláveis
 
 ```python
 backend_skills = {
-    "languages": ["Python"],
+    "languages": ["Python", "C++"],
+    "frontend": ["HTML", "CSS"],
     "frameworks": ["Flask", "FastAPI", "Django"],
     "databases": ["PostgreSQL", "SQLite"],
     "tools": ["Git", "Postman", "VS Code"],
-    "learning": ["MongoDB", "AWS", "Microservices"]
+    "learning": ["MongoDB", "AWS", "Microservices", "WebSockets"]
 }
 ```
 
@@ -53,16 +54,6 @@ backend_skills = {
 - ☁️ Deploy e Cloud (AWS/Azure)
 - 🧪 Testes automatizados
 - 🎨 Clean Code e Design Patterns
-
-## 🎯 Objetivos 2025
-
-- [ ] Dominar Django e FastAPI
-- [ ] Contribuir em projetos open source
-- [ ] Aprofundar em arquitetura de sistemas
-
-## 📫 Vamos Conectar?
-
-💡 Adoro trocar experiências sobre desenvolvimento backend e aprendizado de Python!
 
 ---
 
