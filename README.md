@@ -19,7 +19,7 @@ backend_skills = {
     "languages": ["Python", "C++"],
     "frontend": ["HTML", "CSS"],
     "frameworks": ["Flask", "FastAPI", "Django"],
-    "databases": ["PostgreSQL", "SQLite"],
+    "databases": ["MySQL", "MongoDB", "PostgreSQL", "SQLite"],
     "tools": ["Git", "Postman", "VS Code"],
     "learning": ["MongoDB", "AWS", "Microservices", "WebSockets"]
 }
@@ -34,7 +34,8 @@ backend_skills = {
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
