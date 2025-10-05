@@ -8,7 +8,7 @@
 
 Desenvolvedora Python focada em construir APIs robustas e escaláveis.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-acioly/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-acioly-9217a7306/)
 
 </div>
 
