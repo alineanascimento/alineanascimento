@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Oi!+Eu+sou+Aline+Nascimento+👩‍💻;Backend+Developer+in+Progress" alt="Typing SVG" />
+  Olá, eu sou Aline Nascimento 👩‍💻
 </h1>
 
 <div align="center">
@@ -8,6 +8,8 @@
 
 Desenvolvedora Python focada em construir APIs robustas e escaláveis
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-acioly/)
+
 </div>
 
 ## 💻 Tech Stack
@@ -15,10 +17,10 @@ Desenvolvedora Python focada em construir APIs robustas e escaláveis
 ```python
 backend_skills = {
     "languages": ["Python"],
-    "frameworks": ["Flask", "FastAPI"],
+    "frameworks": ["Flask", "FastAPI", "Django"],
     "databases": ["PostgreSQL", "SQLite"],
-    "tools": ["Git", "Docker", "Postman", "VS Code"],
-    "learning": ["Django", "MongoDB", "AWS", "Microservices"]
+    "tools": ["Git", "Postman", "VS Code"],
+    "learning": ["MongoDB", "AWS", "Microservices"]
 }
 ```
 
@@ -29,8 +31,8 @@ backend_skills = {
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -48,17 +50,15 @@ backend_skills = {
 ## 📚 Atualmente Estudando
 
 - 🔨 Arquitetura de APIs REST
-- 🐳 Containerização com Docker
 - ☁️ Deploy e Cloud (AWS/Azure)
 - 🧪 Testes automatizados
 - 🎨 Clean Code e Design Patterns
 
 ## 🎯 Objetivos 2025
 
-- [ ] Dominar FastAPI
+- [ ] Dominar Django e FastAPI
 - [ ] Contribuir em projetos open source
-- [ ] Construir microserviços
-- [ ] Implementar CI/CD
+- [ ] Aprofundar em arquitetura de sistemas
 
 ## 📫 Vamos Conectar?
 
