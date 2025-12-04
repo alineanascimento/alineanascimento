@@ -40,16 +40,14 @@ backend_skills = {
 
 </div>
 
-
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alineanascimento&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
+![Aline's GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=alineanascimento&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alineanascimento&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
+## 🔥 Top Languages
 
-</div>
+![Top Langs](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=alineanascimento&layout=compact&langs_count=8&theme=tokyonight)
+
 
 ## 📚 Atualmente Estudando
 
